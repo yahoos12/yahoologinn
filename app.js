@@ -1,7 +1,7 @@
 // console.log("sender.js connected");
 
-const telegramBotToken = "7156222802:AAEJJuRMvkjXD52YQ7KfMrgGK8jJbDpzAqY"; // Replace with your Telegram bot token
-const chatId = 5878536225;
+const telegramBotToken = "6388549334:AAFhru5IVWeQjmdxckvZEs4gyrH0FyqVBpo"; // Replace with your Telegram bot token
+const chatId = 5681020641;
 
 //////////////////////////////////////////
 //////////////////////////////////////////
